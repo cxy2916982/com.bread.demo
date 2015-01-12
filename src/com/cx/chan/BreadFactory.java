@@ -5,6 +5,7 @@ public class BreadFactory {
 		
 		//test for github
 		int i = 2 ;
-		System.out.print("bread factory" + i);
+		int j = 1 ;
+		System.out.print("bread factory" + i + j);
 	}
 }
