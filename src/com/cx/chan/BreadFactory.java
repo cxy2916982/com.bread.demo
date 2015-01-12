@@ -4,6 +4,7 @@ public class BreadFactory {
 	public static void main(String args[]){
 		
 		//test for github
-		System.out.print("bread factory");
+		int i = 2 ;
+		System.out.print("bread factory" + i);
 	}
 }
